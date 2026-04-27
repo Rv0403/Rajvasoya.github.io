@@ -8809,6 +8809,10 @@ h1, h2, h3, h4, h5,
     font-weight: 600;
     color: #ffbd39; }
 
+.ftco-about .counter-wrap .text p span:first-child {
+  font-weight: 600;
+  color: #ffbd39; }
+
 .resume-wrap {
   width: 100%;
   margin-bottom: 30px;
@@ -9286,6 +9290,12 @@ textarea.form-control {
   border-radius: 5px; }
 
 .ftco-counter .text strong.number {
+  font-weight: 700;
+  font-size: 30px;
+  color: #ffbd39;
+  display: block; }
+
+.ftco-counter .text strong {
   font-weight: 700;
   font-size: 30px;
   color: #ffbd39;
